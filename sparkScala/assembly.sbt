@@ -1,1 +1,0 @@
-//addSbtPlugin("com.eed3s9n" % "sbt-assembly" % "0.11.2")
